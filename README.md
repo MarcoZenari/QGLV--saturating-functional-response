@@ -1,5 +1,6 @@
 # QGLV-saturating-functional-response
 Simulations, Numerical results and plots ffor Quenched Generalized Lotka-Volterra systems with saturating functional response.
+Pre-print: http://arxiv.org/abs/2506.04056
 
 ## Generalized Lotka-Volterra systems with quenched random interactions and saturating functional response
 
